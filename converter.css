@@ -154,10 +154,15 @@ input[type="number"]::-webkit-outer-spin-button {
 
 .attribution {
   text-align: center;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: var(--muted);
-  margin-top: 0.5rem;
+  margin: 0.5rem auto;
+  max-width: 400px;
 }
 .attribution a {
   color: var(--accent-light);
+}
+
+.attribution p {
+  margin-bottom: 1rem;
 }
