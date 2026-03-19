@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Proust Page Converter</title>
+    <link rel="stylesheet" href="converter.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Proust Page Converter</h1>
+      <p class="subtitle">À la recherche du temps perdu</p>
+
+      <div class="card">
+        <label for="volume">Volume</label>
+        <select id="volume"></select>
+
+        <div class="row">
+          <div>
+            <label for="source">From edition</label>
+            <select id="source"></select>
+          </div>
+          <div>
+            <label for="page">Page</label>
+            <input
+              type="number"
+              id="page"
+              min="1"
+              step="any"
+              placeholder="e.g. 394"
+            />
+          </div>
+        </div>
+
+        <label for="target">To edition</label>
+        <select id="target"></select>
+      </div>
+
+      <div class="card" id="results">
+        <div class="result-header" id="results-header"></div>
+        <div id="results-body"></div>
+      </div>
+    </div>
+
+    <footer class="attribution">
+      Conversion data from
+      <a
+        href="http://sterntom.com/proust-page-number-converter/"
+        target="_blank"
+        rel="noopener"
+      >
+        Tom Stern's Proust Page Number Converter</a
+      >.
+    </footer>
+
+    <script src="converter.js"></script>
+  </body>
+</html>
