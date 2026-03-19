@@ -340,3 +340,7 @@ dstSelect.addEventListener("change", () => {
 pageInput.addEventListener("input", doConvert);
 
 populateEditions();
+
+// Obfuscated mailto to deter spam bots
+const cl = document.getElementById("contact-link");
+if (cl) cl.href = "mai" + "lto:" + "sean" + "@" + "snptrs" + ".dev";

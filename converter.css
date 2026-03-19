@@ -45,6 +45,14 @@ h1 {
   font-style: italic;
 }
 
+.instructions {
+  text-align: center;
+  font-size: 1.1rem;
+  color: var(--muted);
+  margin: 4rem auto;
+  line-height: 1.5;
+}
+
 .card {
   background: var(--card);
   border: 1px solid var(--border);
