@@ -164,8 +164,9 @@ input[type="number"]::-webkit-outer-spin-button {
   text-align: center;
   font-size: 0.9rem;
   color: var(--muted);
-  margin: 0.5rem auto;
+  margin: 2.5rem auto;
   max-width: 600px;
+  line-height: 1.3;
 }
 .attribution a {
   color: var(--accent-light);
