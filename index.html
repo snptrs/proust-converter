@@ -22,7 +22,14 @@
         <label for="volume">Volume</label>
         <select id="volume"></select>
 
-        <div class="row">
+        <div id="mode-toggle" style="display: none">
+          <button id="mode-page" class="mode-btn active" type="button">
+            Page
+          </button>
+          <button id="mode-time" class="mode-btn" type="button">Time</button>
+        </div>
+
+        <div id="page-row" class="row">
           <div>
             <label for="source">From edition</label>
             <select id="source"></select>
@@ -35,6 +42,18 @@
               min="1"
               step="any"
               placeholder="e.g. 394"
+            />
+          </div>
+        </div>
+
+        <div id="time-row" class="row" style="display: none">
+          <div>
+            <label for="time-input">Audiobook time</label>
+            <input
+              type="text"
+              id="time-input"
+              placeholder="e.g. 2:34:15"
+              autocomplete="off"
             />
           </div>
         </div>
@@ -71,6 +90,8 @@
     </footer>
 
     <script src="converter-core.js"></script>
+    <script src="timings.js"></script>
+    <script src="timings-core.js"></script>
     <script src="converter.js"></script>
   </body>
 </html>

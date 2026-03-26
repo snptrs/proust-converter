@@ -160,6 +160,84 @@ input[type="number"]::-webkit-outer-spin-button {
   color: var(--accent-light);
 }
 
+/* ─── Mode toggle ─────────────────────────────────────────────────────────── */
+
+#mode-toggle {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.mode-btn {
+  flex: 1;
+  background: none;
+  border: 1px solid var(--border);
+  padding: 0.4rem 0.75rem;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+.mode-btn:first-child {
+  border-radius: 4px 0 0 4px;
+}
+
+.mode-btn:last-child {
+  border-radius: 0 4px 4px 0;
+  border-left: none;
+}
+
+.mode-btn.active {
+  background: var(--accent);
+  color: var(--card);
+  border-color: var(--accent);
+}
+
+/* ─── Time input ──────────────────────────────────────────────────────────── */
+
+input[type="text"] {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  font-family: inherit;
+  font-size: 0.95rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--bg);
+  color: var(--text);
+  margin-bottom: 1rem;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+/* ─── Audiobook result row ────────────────────────────────────────────────── */
+
+.audiobook-divider {
+  border-top: 1px solid var(--border);
+  margin: 0.5rem 0;
+}
+
+.audiobook-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.4rem 0;
+  font-size: 0.9rem;
+}
+
+.audiobook-row .result-name {
+  color: var(--muted);
+}
+
+.audiobook-time {
+  font-variant-numeric: tabular-nums;
+  font-weight: bold;
+  color: var(--accent);
+  min-width: 4rem;
+  text-align: right;
+}
+
 .attribution {
   text-align: center;
   font-size: 0.9rem;

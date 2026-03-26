@@ -4,7 +4,7 @@ const {
   C,
   findPath,
   convertPage,
-} = require("./converter-core");
+} = require("../converter-core");
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
