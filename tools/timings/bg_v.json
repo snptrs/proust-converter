@@ -1,0 +1,505 @@
+{
+  "volume": 2,
+  "edition": "bg_v",
+  "narrator": "Naxos audiobook, narrated by Neville Jason",
+  "duration_seconds": 94732.98,
+  "anchors": [
+    {
+      "page": 1,
+      "seconds": 15.84
+    },
+    {
+      "page": 5,
+      "seconds": 588.24
+    },
+    {
+      "page": 10,
+      "seconds": 1340.34
+    },
+    {
+      "page": 15,
+      "seconds": 2066.58
+    },
+    {
+      "page": 20,
+      "seconds": 2802.6
+    },
+    {
+      "page": 25,
+      "seconds": 3558.84
+    },
+    {
+      "page": 30,
+      "seconds": 4302.42
+    },
+    {
+      "page": 35,
+      "seconds": 5045.46
+    },
+    {
+      "page": 40,
+      "seconds": 5830.44
+    },
+    {
+      "page": 45,
+      "seconds": 6614.52
+    },
+    {
+      "page": 50,
+      "seconds": 7367.46
+    },
+    {
+      "page": 55,
+      "seconds": 8178.72
+    },
+    {
+      "page": 60,
+      "seconds": 8925.48
+    },
+    {
+      "page": 65,
+      "seconds": 9673.32
+    },
+    {
+      "page": 70,
+      "seconds": 10432.92
+    },
+    {
+      "page": 75,
+      "seconds": 11232.06
+    },
+    {
+      "page": 80,
+      "seconds": 11982.84
+    },
+    {
+      "page": 85,
+      "seconds": 12776.34
+    },
+    {
+      "page": 90,
+      "seconds": 13514.04
+    },
+    {
+      "page": 95,
+      "seconds": 14257.38
+    },
+    {
+      "page": 100,
+      "seconds": 14978.28
+    },
+    {
+      "page": 105,
+      "seconds": 15739.38
+    },
+    {
+      "page": 110,
+      "seconds": 16542
+    },
+    {
+      "page": 115,
+      "seconds": 17295.72
+    },
+    {
+      "page": 120,
+      "seconds": 18045.72
+    },
+    {
+      "page": 125,
+      "seconds": 18828.36
+    },
+    {
+      "page": 130,
+      "seconds": 19594.08
+    },
+    {
+      "page": 135,
+      "seconds": 20333.22
+    },
+    {
+      "page": 140,
+      "seconds": 21053.34
+    },
+    {
+      "page": 145,
+      "seconds": 21858.3
+    },
+    {
+      "page": 150,
+      "seconds": 22632.72
+    },
+    {
+      "page": 155,
+      "seconds": 23409.78
+    },
+    {
+      "page": 160,
+      "seconds": 24150.84
+    },
+    {
+      "page": 165,
+      "seconds": 24914.1
+    },
+    {
+      "page": 170,
+      "seconds": 25672.86
+    },
+    {
+      "page": 175,
+      "seconds": 26405.4
+    },
+    {
+      "page": 180,
+      "seconds": 27158.28
+    },
+    {
+      "page": 185,
+      "seconds": 27959.76
+    },
+    {
+      "page": 190,
+      "seconds": 28723.5
+    },
+    {
+      "page": 195,
+      "seconds": 29486.16
+    },
+    {
+      "page": 200,
+      "seconds": 30247.86
+    },
+    {
+      "page": 205,
+      "seconds": 30997.56
+    },
+    {
+      "page": 210,
+      "seconds": 31725.06
+    },
+    {
+      "page": 215,
+      "seconds": 32505.3
+    },
+    {
+      "page": 220,
+      "seconds": 33297.42
+    },
+    {
+      "page": 225,
+      "seconds": 34068.6
+    },
+    {
+      "page": 230,
+      "seconds": 34871.16
+    },
+    {
+      "page": 235,
+      "seconds": 35661.48
+    },
+    {
+      "page": 240,
+      "seconds": 36472.86
+    },
+    {
+      "page": 245,
+      "seconds": 37266.9
+    },
+    {
+      "page": 250,
+      "seconds": 38061.78
+    },
+    {
+      "page": 255,
+      "seconds": 38733.66
+    },
+    {
+      "page": 260,
+      "seconds": 39501
+    },
+    {
+      "page": 265,
+      "seconds": 40249.74
+    },
+    {
+      "page": 270,
+      "seconds": 41038.32
+    },
+    {
+      "page": 275,
+      "seconds": 41881.08
+    },
+    {
+      "page": 280,
+      "seconds": 42630.24
+    },
+    {
+      "page": 285,
+      "seconds": 43408.14
+    },
+    {
+      "page": 290,
+      "seconds": 44191.38
+    },
+    {
+      "page": 295,
+      "seconds": 44938.98
+    },
+    {
+      "page": 300,
+      "seconds": 45666.24
+    },
+    {
+      "page": 305,
+      "seconds": 46437.36
+    },
+    {
+      "page": 310,
+      "seconds": 47168.34
+    },
+    {
+      "page": 315,
+      "seconds": 47896.44
+    },
+    {
+      "page": 320,
+      "seconds": 48655.8
+    },
+    {
+      "page": 325,
+      "seconds": 49428.54
+    },
+    {
+      "page": 330,
+      "seconds": 50182.92
+    },
+    {
+      "page": 335,
+      "seconds": 50933.16
+    },
+    {
+      "page": 340,
+      "seconds": 51714.12
+    },
+    {
+      "page": 345,
+      "seconds": 52498.68
+    },
+    {
+      "page": 350,
+      "seconds": 53274
+    },
+    {
+      "page": 355,
+      "seconds": 54010.98
+    },
+    {
+      "page": 360,
+      "seconds": 54791.1
+    },
+    {
+      "page": 365,
+      "seconds": 55559.34
+    },
+    {
+      "page": 370,
+      "seconds": 56332.14
+    },
+    {
+      "page": 375,
+      "seconds": 57126.3
+    },
+    {
+      "page": 380,
+      "seconds": 57930.54
+    },
+    {
+      "page": 385,
+      "seconds": 58694.16
+    },
+    {
+      "page": 390,
+      "seconds": 59470.68
+    },
+    {
+      "page": 395,
+      "seconds": 60237.54
+    },
+    {
+      "page": 400,
+      "seconds": 61007.82
+    },
+    {
+      "page": 405,
+      "seconds": 61747.74
+    },
+    {
+      "page": 410,
+      "seconds": 62492.58
+    },
+    {
+      "page": 415,
+      "seconds": 63312.9
+    },
+    {
+      "page": 420,
+      "seconds": 64088.64
+    },
+    {
+      "page": 425,
+      "seconds": 64852.62
+    },
+    {
+      "page": 430,
+      "seconds": 65638.44
+    },
+    {
+      "page": 435,
+      "seconds": 66403.86
+    },
+    {
+      "page": 440,
+      "seconds": 67191.6
+    },
+    {
+      "page": 445,
+      "seconds": 67981.08
+    },
+    {
+      "page": 450,
+      "seconds": 68755.92
+    },
+    {
+      "page": 455,
+      "seconds": 69506.46
+    },
+    {
+      "page": 460,
+      "seconds": 70276.2
+    },
+    {
+      "page": 465,
+      "seconds": 71025.36
+    },
+    {
+      "page": 470,
+      "seconds": 71775.54
+    },
+    {
+      "page": 475,
+      "seconds": 72555.12
+    },
+    {
+      "page": 480,
+      "seconds": 73298.94
+    },
+    {
+      "page": 485,
+      "seconds": 74074.38
+    },
+    {
+      "page": 490,
+      "seconds": 74846.82
+    },
+    {
+      "page": 495,
+      "seconds": 75610.74
+    },
+    {
+      "page": 500,
+      "seconds": 76444.74
+    },
+    {
+      "page": 505,
+      "seconds": 77224.92
+    },
+    {
+      "page": 510,
+      "seconds": 77983.14
+    },
+    {
+      "page": 515,
+      "seconds": 78798.48
+    },
+    {
+      "page": 520,
+      "seconds": 79528.08
+    },
+    {
+      "page": 525,
+      "seconds": 80301.96
+    },
+    {
+      "page": 530,
+      "seconds": 81066.66
+    },
+    {
+      "page": 535,
+      "seconds": 81825
+    },
+    {
+      "page": 540,
+      "seconds": 82549.62
+    },
+    {
+      "page": 545,
+      "seconds": 83305.92
+    },
+    {
+      "page": 550,
+      "seconds": 84099.42
+    },
+    {
+      "page": 555,
+      "seconds": 84896.7
+    },
+    {
+      "page": 560,
+      "seconds": 85645.44
+    },
+    {
+      "page": 565,
+      "seconds": 86452.8
+    },
+    {
+      "page": 570,
+      "seconds": 87214.62
+    },
+    {
+      "page": 575,
+      "seconds": 87986.1
+    },
+    {
+      "page": 580,
+      "seconds": 88788.36
+    },
+    {
+      "page": 585,
+      "seconds": 89554.8
+    },
+    {
+      "page": 590,
+      "seconds": 90348.96
+    },
+    {
+      "page": 595,
+      "seconds": 91155.36
+    },
+    {
+      "page": 600,
+      "seconds": 91896.66
+    },
+    {
+      "page": 605,
+      "seconds": 92656.68
+    },
+    {
+      "page": 610,
+      "seconds": 93446.64
+    },
+    {
+      "page": 615,
+      "seconds": 94206.78
+    }
+  ]
+}
+
