@@ -30,17 +30,28 @@ Each pair of editions has a set of linear regression coefficients (slope and int
 
 For editions that have timing data, the app can convert between page numbers and audiobook timestamps. Enter a page number to see the corresponding position in the audiobook, or enter a timestamp to find the approximate page.
 
-Currently supported: _Within a Budding Grove_ — Vintage edition (Naxos audiobook, narrated by Neville Jason).
+Currently supported (Vintage editions, Naxos audiobooks narrated by Neville Jason):
+
+- _Within a Budding Grove_
+- _The Guermantes Way_
 
 ### How it works
 
-Timing data is stored as a set of anchor points — manually recorded `(page, timestamp)` pairs sampled every five pages. Between anchors, positions are derived by piecewise linear interpolation. The anchors are stored in `tools/timings/` as JSON files and compiled into `timings.js` by `tools/build_timings.py`.
+Timing data is stored as a set of anchor points — manually recorded `(page, timestamp)` pairs. Pages can be fractional to mark a position partway down the page. Between anchors, positions are derived by piecewise linear interpolation. The anchors are stored in `tools/timings/` as JSON files and compiled into `timings.js` by `tools/build_timings.py`.
 
 ### Adding timing data for a new edition
 
-1. Obtain an ASR transcript of the audiobook (as a JSON file with a `segments` array of `{id, start, text}` objects) and place it in `tools/`.
-2. Run `python tools/build_timings.py` and follow the interactive prompts: enter a page number, then paste a short passage of text from that page. The script fuzzy-matches it against the transcript to find the timestamp.
-3. Repeat for as many pages as desired (every 5 pages gives good accuracy). The script saves progress to `tools/timings/<edition>.json` and regenerates `timings.js` after each anchor.
+`tools/build_timings.py` has a preset for each edition (`--edition bg_v`, `--edition gw_v`). Anchors are saved to `tools/timings/<edition>.json` and `timings.js` is regenerated after each one. There are two modes:
+
+**Chapter mode** (preferred, used when the preset has an Audiobookshelf item ID). Chapter start times from Audiobookshelf are used as exact timestamps.
+
+1. Put an Audiobookshelf API key in `~/.config/abs/token`.
+2. Run `python tools/build_timings.py --edition gw_v`. Chapters are fetched once and cached to `tools/<edition>-chapters.json` (`--refresh-chapters` to re-fetch).
+3. For each chapter, enter the page where its first line appears (e.g. `212.5` for halfway down p. 212), or press Enter to accept the prediction. Entries far from the prediction are flagged. `s` skips, `b` goes back, `q` quits; progress resumes where you left off.
+
+**Transcript mode** (`bg_v`). Uses an ASR transcript (a JSON file with a `segments` array of `{id, start, text}` objects) in `tools/`. Enter a page number, then paste a short passage from that page; the script fuzzy-matches it against the transcript to find the timestamp.
+
+Run `python tools/build_timings.py --edition <edition> --check` to flag anchors that are out of order or don't fit their neighbours, estimate the book's last page from the audio, and show where the converter places known landmarks (e.g. the start of Part Two) so you can check them against the book.
 
 ## Tests
 

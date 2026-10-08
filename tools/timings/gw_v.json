@@ -1,0 +1,1157 @@
+{
+  "volume": 3,
+  "edition": "gw_v",
+  "narrator": "Naxos audiobook, narrated by Neville Jason",
+  "duration_seconds": 103698.366984,
+  "anchors": [
+    {
+      "page": 1,
+      "seconds": 0,
+      "chapter": 0
+    },
+    {
+      "page": 3.6,
+      "seconds": 389.537959,
+      "chapter": 1
+    },
+    {
+      "page": 5.4,
+      "seconds": 666.133923,
+      "chapter": 2
+    },
+    {
+      "page": 8.7,
+      "seconds": 1158.860907,
+      "chapter": 3
+    },
+    {
+      "page": 11.6,
+      "seconds": 1602.686893,
+      "chapter": 4
+    },
+    {
+      "page": 14.1,
+      "seconds": 1995.521859,
+      "chapter": 5
+    },
+    {
+      "page": 16.4,
+      "seconds": 2349.393832,
+      "chapter": 6
+    },
+    {
+      "page": 19.1,
+      "seconds": 2766.981814,
+      "chapter": 7
+    },
+    {
+      "page": 22.2,
+      "seconds": 3228.03678,
+      "chapter": 8
+    },
+    {
+      "page": 24.3,
+      "seconds": 3548.42576,
+      "chapter": 9
+    },
+    {
+      "page": 30.5,
+      "seconds": 4495.010748,
+      "chapter": 11
+    },
+    {
+      "page": 34,
+      "seconds": 5029.394739,
+      "chapter": 13
+    },
+    {
+      "page": 38.8,
+      "seconds": 5741.458685,
+      "chapter": 15
+    },
+    {
+      "page": 41.5,
+      "seconds": 6152.451655,
+      "chapter": 16
+    },
+    {
+      "page": 48.3,
+      "seconds": 7210.306621,
+      "chapter": 18
+    },
+    {
+      "page": 52.5,
+      "seconds": 7889.165578,
+      "chapter": 20
+    },
+    {
+      "page": 55.2,
+      "seconds": 8307.217551,
+      "chapter": 21
+    },
+    {
+      "page": 58.1,
+      "seconds": 8719.836508,
+      "chapter": 22
+    },
+    {
+      "page": 61,
+      "seconds": 9155.071474,
+      "chapter": 23
+    },
+    {
+      "page": 63.4,
+      "seconds": 9511.776463,
+      "chapter": 24
+    },
+    {
+      "page": 65.3,
+      "seconds": 9796.081451,
+      "chapter": 25
+    },
+    {
+      "page": 67.6,
+      "seconds": 10163.467438,
+      "chapter": 26
+    },
+    {
+      "page": 70.3,
+      "seconds": 10586.99941,
+      "chapter": 27
+    },
+    {
+      "page": 72.6,
+      "seconds": 10942.914376,
+      "chapter": 28
+    },
+    {
+      "page": 75.7,
+      "seconds": 11417.344354,
+      "chapter": 29
+    },
+    {
+      "page": 79.6,
+      "seconds": 11996.31034,
+      "chapter": 30
+    },
+    {
+      "page": 82.1,
+      "seconds": 12364.671338,
+      "chapter": 31
+    },
+    {
+      "page": 85.1,
+      "seconds": 12788.342313,
+      "chapter": 32
+    },
+    {
+      "page": 88.1,
+      "seconds": 13245.496281,
+      "chapter": 33
+    },
+    {
+      "page": 91.6,
+      "seconds": 13792.837279,
+      "chapter": 34
+    },
+    {
+      "page": 94.7,
+      "seconds": 14272.933243,
+      "chapter": 35
+    },
+    {
+      "page": 97.2,
+      "seconds": 14641.805215,
+      "chapter": 36
+    },
+    {
+      "page": 99.9,
+      "seconds": 15041.281179,
+      "chapter": 37
+    },
+    {
+      "page": 105.7,
+      "seconds": 15893.082132,
+      "chapter": 39
+    },
+    {
+      "page": 110.6,
+      "seconds": 16587.173107,
+      "chapter": 41
+    },
+    {
+      "page": 113,
+      "seconds": 16918.893107,
+      "chapter": 42
+    },
+    {
+      "page": 118.9,
+      "seconds": 17798.41805,
+      "chapter": 44
+    },
+    {
+      "page": 123.1,
+      "seconds": 18426.982041,
+      "chapter": 45
+    },
+    {
+      "page": 127.2,
+      "seconds": 19036.32,
+      "chapter": 46
+    },
+    {
+      "page": 129.9,
+      "seconds": 19426.182993,
+      "chapter": 47
+    },
+    {
+      "page": 132.8,
+      "seconds": 19868.847982,
+      "chapter": 48
+    },
+    {
+      "page": 136.3,
+      "seconds": 20398.030975,
+      "chapter": 49
+    },
+    {
+      "page": 139.1,
+      "seconds": 20804.751973,
+      "chapter": 50
+    },
+    {
+      "page": 141.3,
+      "seconds": 21118.453968,
+      "chapter": 51
+    },
+    {
+      "page": 145.1,
+      "seconds": 21693.054921,
+      "chapter": 53
+    },
+    {
+      "page": 148.2,
+      "seconds": 22159.914921,
+      "chapter": 54
+    },
+    {
+      "page": 153.9,
+      "seconds": 23054.161859,
+      "chapter": 56
+    },
+    {
+      "page": 155.6,
+      "seconds": 23315.107846,
+      "chapter": 57
+    },
+    {
+      "page": 158.4,
+      "seconds": 23762.741814,
+      "chapter": 58
+    },
+    {
+      "page": 163.4,
+      "seconds": 24537.870748,
+      "chapter": 60
+    },
+    {
+      "page": 168.9,
+      "seconds": 25390.275692,
+      "chapter": 62
+    },
+    {
+      "page": 171.4,
+      "seconds": 25781.856689,
+      "chapter": 63
+    },
+    {
+      "page": 176.5,
+      "seconds": 26594.183673,
+      "chapter": 65
+    },
+    {
+      "page": 183.7,
+      "seconds": 27757.131655,
+      "chapter": 67
+    },
+    {
+      "page": 186.9,
+      "seconds": 28244.146621,
+      "chapter": 68
+    },
+    {
+      "page": 188.7,
+      "seconds": 28524.132608,
+      "chapter": 69
+    },
+    {
+      "page": 191.3,
+      "seconds": 28881.069569,
+      "chapter": 70
+    },
+    {
+      "page": 194.4,
+      "seconds": 29318.626531,
+      "chapter": 71
+    },
+    {
+      "page": 197.8,
+      "seconds": 29848.598503,
+      "chapter": 72
+    },
+    {
+      "page": 200.3,
+      "seconds": 30217.563492,
+      "chapter": 73
+    },
+    {
+      "page": 203.6,
+      "seconds": 30643.603492,
+      "chapter": 74
+    },
+    {
+      "page": 206.8,
+      "seconds": 31117.476463,
+      "chapter": 75
+    },
+    {
+      "page": 213.4,
+      "seconds": 32100.145442,
+      "chapter": 77
+    },
+    {
+      "page": 216.8,
+      "seconds": 32624.544399,
+      "chapter": 78
+    },
+    {
+      "page": 219.2,
+      "seconds": 32973.493379,
+      "chapter": 79
+    },
+    {
+      "page": 224.7,
+      "seconds": 33833.142313,
+      "chapter": 81
+    },
+    {
+      "page": 227.5,
+      "seconds": 34254.35229,
+      "chapter": 82
+    },
+    {
+      "page": 230.7,
+      "seconds": 34749.634286,
+      "chapter": 83
+    },
+    {
+      "page": 233.8,
+      "seconds": 35240.550249,
+      "chapter": 84
+    },
+    {
+      "page": 237.3,
+      "seconds": 35756.637234,
+      "chapter": 85
+    },
+    {
+      "page": 240.2,
+      "seconds": 36186.99619,
+      "chapter": 86
+    },
+    {
+      "page": 242.5,
+      "seconds": 36536.410159,
+      "chapter": 87
+    },
+    {
+      "page": 245.1,
+      "seconds": 36886.520136,
+      "chapter": 88
+    },
+    {
+      "page": 247.3,
+      "seconds": 37214.804127,
+      "chapter": 89
+    },
+    {
+      "page": 250.1,
+      "seconds": 37641.819093,
+      "chapter": 90
+    },
+    {
+      "page": 252.8,
+      "seconds": 38000.14907,
+      "chapter": 91
+    },
+    {
+      "page": 255.7,
+      "seconds": 38425.492063,
+      "chapter": 92
+    },
+    {
+      "page": 258.4,
+      "seconds": 38865.324036,
+      "chapter": 93
+    },
+    {
+      "page": 261.1,
+      "seconds": 39267.076009,
+      "chapter": 94
+    },
+    {
+      "page": 266.2,
+      "seconds": 39974.913923,
+      "chapter": 96
+    },
+    {
+      "page": 271.4,
+      "seconds": 40771.451882,
+      "chapter": 98
+    },
+    {
+      "page": 277.8,
+      "seconds": 41751.612834,
+      "chapter": 100
+    },
+    {
+      "page": 280.4,
+      "seconds": 42140.593832,
+      "chapter": 101
+    },
+    {
+      "page": 282.2,
+      "seconds": 42408.92381,
+      "chapter": 102
+    },
+    {
+      "page": 284.6,
+      "seconds": 42766.789796,
+      "chapter": 103
+    },
+    {
+      "page": 287.9,
+      "seconds": 43304.65678,
+      "chapter": 104
+    },
+    {
+      "page": 290.4,
+      "seconds": 43667.212744,
+      "chapter": 105
+    },
+    {
+      "page": 293,
+      "seconds": 44049.08771,
+      "chapter": 106
+    },
+    {
+      "page": 295.4,
+      "seconds": 44413.919683,
+      "chapter": 107
+    },
+    {
+      "page": 298.9,
+      "seconds": 44939.015646,
+      "chapter": 108
+    },
+    {
+      "page": 302.2,
+      "seconds": 45483.523628,
+      "chapter": 109
+    },
+    {
+      "page": 304.6,
+      "seconds": 45849.423583,
+      "chapter": 110
+    },
+    {
+      "page": 306.8,
+      "seconds": 46184.115556,
+      "chapter": 111
+    },
+    {
+      "page": 308.9,
+      "seconds": 46524.659546,
+      "chapter": 112
+    },
+    {
+      "page": 311.1,
+      "seconds": 46864.506531,
+      "chapter": 113
+    },
+    {
+      "page": 313.1,
+      "seconds": 47160.096508,
+      "chapter": 114
+    },
+    {
+      "page": 315.7,
+      "seconds": 47543.039501,
+      "chapter": 115
+    },
+    {
+      "page": 318.9,
+      "seconds": 48004.698458,
+      "chapter": 116
+    },
+    {
+      "page": 322.3,
+      "seconds": 48488.880454,
+      "chapter": 117
+    },
+    {
+      "page": 325,
+      "seconds": 48915.105442,
+      "chapter": 118
+    },
+    {
+      "page": 326.7,
+      "seconds": 49169.549433,
+      "chapter": 119
+    },
+    {
+      "page": 328.6,
+      "seconds": 49455.851429,
+      "chapter": 120
+    },
+    {
+      "page": 333.3,
+      "seconds": 50124.958367,
+      "chapter": 122
+    },
+    {
+      "page": 340.2,
+      "seconds": 51035.97034,
+      "chapter": 124
+    },
+    {
+      "page": 345.6,
+      "seconds": 51877.925306,
+      "chapter": 126
+    },
+    {
+      "page": 348.4,
+      "seconds": 52305.637279,
+      "chapter": 127
+    },
+    {
+      "page": 351.4,
+      "seconds": 52775.980272,
+      "chapter": 128
+    },
+    {
+      "page": 354.8,
+      "seconds": 53300.426259,
+      "chapter": 129
+    },
+    {
+      "page": 357.5,
+      "seconds": 53699.577234,
+      "chapter": 130
+    },
+    {
+      "page": 359.9,
+      "seconds": 54037.381224,
+      "chapter": 131
+    },
+    {
+      "page": 362.5,
+      "seconds": 54420.69619,
+      "chapter": 132
+    },
+    {
+      "page": 365.2,
+      "seconds": 54841.67415,
+      "chapter": 133
+    },
+    {
+      "page": 368,
+      "seconds": 55269.478141,
+      "chapter": 134
+    },
+    {
+      "page": 371.3,
+      "seconds": 55760.580136,
+      "chapter": 135
+    },
+    {
+      "page": 373.5,
+      "seconds": 56087.610113,
+      "chapter": 136
+    },
+    {
+      "page": 375.9,
+      "seconds": 56493.727075,
+      "chapter": 137
+    },
+    {
+      "page": 379.3,
+      "seconds": 57016.687075,
+      "chapter": 138
+    },
+    {
+      "page": 381.8,
+      "seconds": 57382.959048,
+      "chapter": 139
+    },
+    {
+      "page": 384.4,
+      "seconds": 57781.228027,
+      "chapter": 140
+    },
+    {
+      "page": 386.7,
+      "seconds": 58133.939002,
+      "chapter": 141
+    },
+    {
+      "page": 390.4,
+      "seconds": 58707.24,
+      "chapter": 142
+    },
+    {
+      "page": 392.7,
+      "seconds": 59052.613968,
+      "chapter": 143
+    },
+    {
+      "page": 398,
+      "seconds": 59852.634921,
+      "chapter": 145
+    },
+    {
+      "page": 400.2,
+      "seconds": 60153.286893,
+      "chapter": 146
+    },
+    {
+      "page": 402.9,
+      "seconds": 60564.326893,
+      "chapter": 147
+    },
+    {
+      "page": 405.7,
+      "seconds": 60972.76585,
+      "chapter": 148
+    },
+    {
+      "page": 408.8,
+      "seconds": 61468.372834,
+      "chapter": 149
+    },
+    {
+      "page": 410.7,
+      "seconds": 61760.525805,
+      "chapter": 150
+    },
+    {
+      "page": 413.1,
+      "seconds": 62109.335782,
+      "chapter": 151
+    },
+    {
+      "page": 416.3,
+      "seconds": 62597.83678,
+      "chapter": 152
+    },
+    {
+      "page": 420.7,
+      "seconds": 63298.986757,
+      "chapter": 154
+    },
+    {
+      "page": 422.8,
+      "seconds": 63633.586757,
+      "chapter": 155
+    },
+    {
+      "page": 425.1,
+      "seconds": 63984.486712,
+      "chapter": 156
+    },
+    {
+      "page": 427.8,
+      "seconds": 64390.928707,
+      "chapter": 157
+    },
+    {
+      "page": 430.2,
+      "seconds": 64739.877687,
+      "chapter": 158
+    },
+    {
+      "page": 432.3,
+      "seconds": 65054.879683,
+      "chapter": 159
+    },
+    {
+      "page": 434.9,
+      "seconds": 65440.052653,
+      "chapter": 160
+    },
+    {
+      "page": 438.6,
+      "seconds": 65991.433651,
+      "chapter": 161
+    },
+    {
+      "page": 442.2,
+      "seconds": 66525.63161,
+      "chapter": 162
+    },
+    {
+      "page": 444.9,
+      "seconds": 66953.017596,
+      "chapter": 163
+    },
+    {
+      "page": 447.5,
+      "seconds": 67352.075556,
+      "chapter": 164
+    },
+    {
+      "page": 450.5,
+      "seconds": 67798.780544,
+      "chapter": 165
+    },
+    {
+      "page": 453.8,
+      "seconds": 68307.065533,
+      "chapter": 166
+    },
+    {
+      "page": 456.7,
+      "seconds": 68754.514512,
+      "chapter": 167
+    },
+    {
+      "page": 458.7,
+      "seconds": 69066.172472,
+      "chapter": 168
+    },
+    {
+      "page": 463.5,
+      "seconds": 69804.288435,
+      "chapter": 170
+    },
+    {
+      "page": 466.1,
+      "seconds": 70207.201406,
+      "chapter": 171
+    },
+    {
+      "page": 473.1,
+      "seconds": 71257.811383,
+      "chapter": 173
+    },
+    {
+      "page": 475.9,
+      "seconds": 71651.668345,
+      "chapter": 174
+    },
+    {
+      "page": 479.8,
+      "seconds": 72220.185306,
+      "chapter": 175
+    },
+    {
+      "page": 482.3,
+      "seconds": 72597.927302,
+      "chapter": 176
+    },
+    {
+      "page": 484.8,
+      "seconds": 72976.830295,
+      "chapter": 177
+    },
+    {
+      "page": 487.6,
+      "seconds": 73400.733288,
+      "chapter": 178
+    },
+    {
+      "page": 489.6,
+      "seconds": 73708.722268,
+      "chapter": 179
+    },
+    {
+      "page": 492.1,
+      "seconds": 74068.724263,
+      "chapter": 180
+    },
+    {
+      "page": 497.2,
+      "seconds": 74817.986213,
+      "chapter": 182
+    },
+    {
+      "page": 500.9,
+      "seconds": 75397.835193,
+      "chapter": 183
+    },
+    {
+      "page": 505,
+      "seconds": 75996.07415,
+      "chapter": 184
+    },
+    {
+      "page": 507.8,
+      "seconds": 76415.101134,
+      "chapter": 185
+    },
+    {
+      "page": 510.4,
+      "seconds": 76786.1561,
+      "chapter": 186
+    },
+    {
+      "page": 512.4,
+      "seconds": 77082.48907,
+      "chapter": 187
+    },
+    {
+      "page": 515.9,
+      "seconds": 77561.795057,
+      "chapter": 188
+    },
+    {
+      "page": 518.3,
+      "seconds": 77912.927029,
+      "chapter": 189
+    },
+    {
+      "page": 523.1,
+      "seconds": 78616.352018,
+      "chapter": 191
+    },
+    {
+      "page": 526.5,
+      "seconds": 79118.181995,
+      "chapter": 192
+    },
+    {
+      "page": 529.4,
+      "seconds": 79546.589977,
+      "chapter": 193
+    },
+    {
+      "page": 531.8,
+      "seconds": 79899.02195,
+      "chapter": 194
+    },
+    {
+      "page": 534.4,
+      "seconds": 80277.135918,
+      "chapter": 195
+    },
+    {
+      "page": 541,
+      "seconds": 81234.308889,
+      "chapter": 197
+    },
+    {
+      "page": 543.4,
+      "seconds": 81587.901859,
+      "chapter": 198
+    },
+    {
+      "page": 546.4,
+      "seconds": 82045.102857,
+      "chapter": 199
+    },
+    {
+      "page": 549.2,
+      "seconds": 82463.804853,
+      "chapter": 200
+    },
+    {
+      "page": 551.6,
+      "seconds": 82819.952834,
+      "chapter": 201
+    },
+    {
+      "page": 554.1,
+      "seconds": 83187.570794,
+      "chapter": 202
+    },
+    {
+      "page": 557.2,
+      "seconds": 83654.10576,
+      "chapter": 203
+    },
+    {
+      "page": 559.8,
+      "seconds": 84021.770748,
+      "chapter": 204
+    },
+    {
+      "page": 562.3,
+      "seconds": 84385.48771,
+      "chapter": 205
+    },
+    {
+      "page": 566.6,
+      "seconds": 84862.796689,
+      "chapter": 206
+    },
+    {
+      "page": 568.6,
+      "seconds": 85148.587664,
+      "chapter": 207
+    },
+    {
+      "page": 570.9,
+      "seconds": 85495.586621,
+      "chapter": 208
+    },
+    {
+      "page": 573.1,
+      "seconds": 85827.167619,
+      "chapter": 209
+    },
+    {
+      "page": 575.8,
+      "seconds": 86210.110612,
+      "chapter": 210
+    },
+    {
+      "page": 577.9,
+      "seconds": 86566.629569,
+      "chapter": 211
+    },
+    {
+      "page": 580.5,
+      "seconds": 86933.876553,
+      "chapter": 212
+    },
+    {
+      "page": 583,
+      "seconds": 87325.086531,
+      "chapter": 213
+    },
+    {
+      "page": 585.4,
+      "seconds": 87689.918503,
+      "chapter": 214
+    },
+    {
+      "page": 587.5,
+      "seconds": 88019.363492,
+      "chapter": 215
+    },
+    {
+      "page": 590.1,
+      "seconds": 88384.474467,
+      "chapter": 216
+    },
+    {
+      "page": 592.4,
+      "seconds": 88724.135465,
+      "chapter": 217
+    },
+    {
+      "page": 594.7,
+      "seconds": 89075.128435,
+      "chapter": 218
+    },
+    {
+      "page": 597.4,
+      "seconds": 89482.685397,
+      "chapter": 219
+    },
+    {
+      "page": 599.9,
+      "seconds": 89837.161361,
+      "chapter": 220
+    },
+    {
+      "page": 602.1,
+      "seconds": 90153.974331,
+      "chapter": 221
+    },
+    {
+      "page": 604.6,
+      "seconds": 90493.961315,
+      "chapter": 222
+    },
+    {
+      "page": 606.5,
+      "seconds": 90770.975283,
+      "chapter": 223
+    },
+    {
+      "page": 609.2,
+      "seconds": 91192.185261,
+      "chapter": 224
+    },
+    {
+      "page": 611.7,
+      "seconds": 91557.06322,
+      "chapter": 225
+    },
+    {
+      "page": 614.8,
+      "seconds": 92008.227211,
+      "chapter": 226
+    },
+    {
+      "page": 616.8,
+      "seconds": 92337.207211,
+      "chapter": 227
+    },
+    {
+      "page": 620.4,
+      "seconds": 92867.179184,
+      "chapter": 228
+    },
+    {
+      "page": 624.8,
+      "seconds": 93549.057143,
+      "chapter": 230
+    },
+    {
+      "page": 627.4,
+      "seconds": 93946.211111,
+      "chapter": 231
+    },
+    {
+      "page": 630.7,
+      "seconds": 94439.728073,
+      "chapter": 232
+    },
+    {
+      "page": 633.2,
+      "seconds": 94817.192063,
+      "chapter": 233
+    },
+    {
+      "page": 636.6,
+      "seconds": 95326.777052,
+      "chapter": 234
+    },
+    {
+      "page": 638.1,
+      "seconds": 95548.435011,
+      "chapter": 235
+    },
+    {
+      "page": 640.6,
+      "seconds": 95919.442993,
+      "chapter": 236
+    },
+    {
+      "page": 643.6,
+      "seconds": 96375.203991,
+      "chapter": 237
+    },
+    {
+      "page": 645.7,
+      "seconds": 96756.196961,
+      "chapter": 238
+    },
+    {
+      "page": 648.2,
+      "seconds": 97147.684943,
+      "chapter": 239
+    },
+    {
+      "page": 650.9,
+      "seconds": 97575.1639,
+      "chapter": 240
+    },
+    {
+      "page": 653.9,
+      "seconds": 98093.990884,
+      "chapter": 241
+    },
+    {
+      "page": 656.3,
+      "seconds": 98476.887846,
+      "chapter": 242
+    },
+    {
+      "page": 658.7,
+      "seconds": 98864.335828,
+      "chapter": 243
+    },
+    {
+      "page": 664.1,
+      "seconds": 99676.429796,
+      "chapter": 245
+    },
+    {
+      "page": 666.6,
+      "seconds": 100058.072789,
+      "chapter": 246
+    },
+    {
+      "page": 668.9,
+      "seconds": 100407.393787,
+      "chapter": 247
+    },
+    {
+      "page": 671.3,
+      "seconds": 100783.788753,
+      "chapter": 248
+    },
+    {
+      "page": 675.1,
+      "seconds": 101332.197732,
+      "chapter": 249
+    },
+    {
+      "page": 676.8,
+      "seconds": 101669.954694,
+      "chapter": 250
+    },
+    {
+      "page": 683,
+      "seconds": 102487.947664,
+      "chapter": 252
+    },
+    {
+      "page": 685.8,
+      "seconds": 102913.42966,
+      "chapter": 253
+    },
+    {
+      "page": 688.5,
+      "seconds": 103294.32966,
+      "chapter": 254
+    }
+  ],
+  "skipped_chapters": [
+    10,
+    12,
+    14,
+    17,
+    19,
+    38,
+    40,
+    43,
+    52,
+    55,
+    59,
+    61,
+    64,
+    66,
+    76,
+    80,
+    95,
+    97,
+    99,
+    121,
+    123,
+    125,
+    144,
+    153,
+    169,
+    172,
+    181,
+    190,
+    196,
+    229,
+    244,
+    251
+  ]
+}
